@@ -82,3 +82,38 @@
 - role of reason
 - moral responsibility
 - happiness (eudaimonia vs beatitude)
+
+* Utilitarianism
+- moral philosophy that focuses on the consequences of actions and aims to maximize overall happiness or well-being
+- "the gratest good for the gratest number"
+- evaluates based on outcomes
+
+** Key principles
+1. Consequentialism
+   - morality based on outcome
+2. Utility
+   - refers to happiness, pleasure or well being
+   - good if increases utility, otherwise bad
+3. Impartiality
+   - each person's happiness is equally important
+   - no individual well-being is considered more valuable than another's
+
+** Types
+1. act utilitarianism
+   - focuses on specific consequences of individual actions
+   - each action is evaluated on a case-by-case basis
+2. rule utilitarianism
+   - considers the long-term benefits to rules that generally promote the gratest good, even if in some cases they do not maximize happiness
+     
+** Famous utilitarian thinkers
+1. Jeremy Bentham
+   - founder of utilitarianism
+   - emphasized on quantifying pleasure and pain
+   - hedonic calculus (method to measure pleasure and pain)
+   - moral framework based on maximizing happiness and minimizing
+     
+2. John Stuart Mill
+   - emphasized the quality of pleasures
+   - importance of personal liberty
+   - happiness as a goal
+   - 
