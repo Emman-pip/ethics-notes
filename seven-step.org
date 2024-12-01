@@ -2,9 +2,9 @@
 
 * GICEAMR
 1. Gather the facts
-   - understant the situation by collecting all relevant and accurate information
+   - understand the situation by collecting all relevant and accurate information
 2. Identify the ethical issue
-   - pinopint the moral question or dilemma
+   - pin point the moral question or dilemma
    - determine what ethical principles or values are at stake
 3. consider all stakeholders
    - identify everyone affected by the decision
@@ -22,7 +22,7 @@
  
 * Understand the concept of moral reasoning and its significance in ethical decision making
 ** moral reasoning
-  - process of determinig what is right/wrong in a given situation based on ethical principles, values, and reasoning frameworks
+  - process of determining what is right/wrong in a given situation based on ethical principles, values, and reasoning frameworks
   - involves analyzing scenarios and making decisions that aligns with moral values
 
 * Reasoning and will

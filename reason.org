@@ -15,7 +15,7 @@
 - problem-solving
   + reason allows individuals to navigate complex moral dilemmas by weighing competing values and determining the ethical course of action
 
-/main idea is that it ensures that ethical decisiona are logical and well founded/
+/main idea is that it ensures that ethical decisions are logical and well founded/
 
 ** Impartiality
 - principle of treating all individuals equally without favoritism, bias, or prejudice
@@ -35,7 +35,6 @@
 ** Feelings (emotional response)
 - emotional responses or states that arise from internal or external stimuli
 - often spontaneous, and can be influenced by out thoughts, experiences, and the environment
-  
   
 ** Reason (reasonable response)
 - refers to hte cognitive process of thinking logically, critically, and systematically

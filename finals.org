@@ -7,7 +7,7 @@
   - [x] outline
   - [x] familiarize
 
-- [ ] Reason, Impartiality, Will, Feeling
+- [x] Reason, Impartiality, Will, Feeling
   - [x] outline
   - [x] familiarize
 
