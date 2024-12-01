@@ -1,33 +1,33 @@
 *TODO
 - [x] Universal Values
   - [x] outline
-  - [x] familiarize
+  - [ ] familiarize
     
 - [x] The Filipino Way
   - [x] outline
-  - [x] familiarize
+  - [ ] familiarize
 
 - [x] Reason, Impartiality, Will, Feeling
   - [x] outline
-  - [x] familiarize
-
-- [ ] Moral theory/Frame
-  - [ ] outline
   - [ ] familiarize
 
-- [ ] Moral (Character) Development
+- [x] Moral theory/Frame
   - [x] outline
-  - [x] familiarize
-
-- [ ] 7 Steps
-  - [ ] outline
   - [ ] familiarize
 
-- [ ] Utilitarian (Bentham, Mills)
-  - [ ] outline
+- [x] Moral (Character) Development
+  - [x] outline
   - [ ] familiarize
 
-- [ ] Aristotle and St. Thomas
-  - [ ] outline
+- [x] 7 Steps
+  - [x] outline
+  - [ ] familiarize
+
+- [x] Utilitarian (Bentham, Mills)
+  - [x] outline
+  - [ ] familiarize
+
+- [x] Aristotle and St. Thomas
+  - [x] outline
   - [ ] familiarize
 
