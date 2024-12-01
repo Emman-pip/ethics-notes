@@ -1,23 +1,23 @@
 *TODO
-- [ ] Universal Values
+- [x] Universal Values
   - [x] outline
   - [x] familiarize
     
-- [ ] The Filipino Way
+- [x] The Filipino Way
   - [x] outline
-  - [ ] familiarize
+  - [x] familiarize
 
 - [ ] Reason, Impartiality, Will, Feeling
-  - [ ] outline
-  - [ ] familiarize
+  - [x] outline
+  - [x] familiarize
 
 - [ ] Moral theory/Frame
   - [ ] outline
   - [ ] familiarize
 
 - [ ] Moral (Character) Development
-  - [ ] outline
-  - [ ] familiarize
+  - [x] outline
+  - [x] familiarize
 
 - [ ] 7 Steps
   - [ ] outline

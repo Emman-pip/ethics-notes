@@ -12,5 +12,38 @@
 
   
 *** two different kinds of human excellences
-1. excellences of though
+1. excellences of thought
 2. excellences of character
+*Excellence of character is not on mere distrinctiveness/individuality, but on the combination of qualities that make an individual the sort of ethically admirable person he/she is*
+
+** 3 Approacher of development of moral character
+1. virtue
+   + cultivating positive qualities through practice and habituation
+   + aim is to develop a stable set of virtues that guide a person's decisions and actions consistently
+   + *moral character is about who you are based on specific positive traits that becomen ingrined overtime*
+2. disposition
+   + refer to tendencies or inclunations to act in certain ways
+   + disposition is the inherent qualities of an individual
+   + *emphasizes that a person's character is shown through their general habits and inclinations rather than just a list of virtues*
+     
+3. circular relation of acts and character
+   + reciprocal relationship between actions and character
+   + suggests the we develop out character thorugh our choices and behaviors, which in turn shapre our future actions
+   + character and actions influence each other
+
+** Kohlberg's stages of moral development
+|-------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------|
+| Level             | stage                                 | description                                                                                                           |
+|-------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------|
+| pre-conventional  | obedience and punishment orientation  | morality based on avoiding punishment                                                                                 |
+|                   |                                       |                                                                                                                       |
+|                   | Individuslism and exchange            | morality guided by self-interest and reciprocal exchanges                                                             |
+|-------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------|
+| conventional      | good interpersonal relationships      | morality is determined by social approval                                                                             |
+|                   |                                       |                                                                                                                       |
+|                   | maintaining social order              | morality based on fulfilling one's duties                                                                             |
+|-------------------+---------------------------------------+-----------------------------------------------------------------------------------------------------------------------|
+| post-conventional | social contract and individual rights | morality based on principles of justice                                                                               |
+|                   |                                       |                                                                                                                       |
+|                   | universal principles                  | morality is based on abstract reasoning and universal ethical principles such as justtice, equality, and human rights |
+|                   |                                       | act based on moral compass, even if against the law                                                                  |
