@@ -1,7 +1,7 @@
 * The Filipino way
 
 ** FILIPINO VALUES
-- principles or moral standards that guide the behavior,decisions, and beliefs of Filipinos
+- principles or moral standards that guide the behavior, decisions, and beliefs of Filipinos
 - purpose is to shape what Filipinos consider important in life
   + Pakikipagkapwa tao: respecting and treating others with kindness
   + bayanihan: spirit of communcal unity and cooperation
@@ -37,7 +37,7 @@
 2. Hiya (sense of shame)
    - fear of losing face can prevent individuals from speaking up or addressing important issues
    - can suppress constructive criticism, limit personal expression, and stifle innovation
-3. Tendency toward fatalism ("Bahala na")
+3. Tendency towards fatalism ("Bahala na")
    - loosely translates as come what may
    - reflects a sense of surrender to fate
 4. Colonial mentality
