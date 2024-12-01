@@ -1,0 +1,68 @@
+* Seven steps of moral reasoning model
+
+* GICEAMR
+1. Gather the facts
+   - understant the situation by collecting all relevant and accurate information
+2. Identify the ethical issue
+   - pinopint the moral question or dilemma
+   - determine what ethical principles or values are at stake
+3. consider all stakeholders
+   - identify everyone affected by the decision
+   - understand their perspectives
+4. evaluate possible courses of action
+   - brainstorm different actions or solutions
+   - consider potential outcomes, both short-term and long-term
+5. apply ethical principles or frameworks
+   - use moral principles (justice, fairness, honesty) or established theories to analyze the options
+6. make a decision
+   - choose the course of action that aligns best with ethical principles and values
+7. reflect on the decision
+   - assess the decision and its impact after implementation
+   - consider what was learned and how the process can improve future decision making
+ 
+* Understand the concept of moral reasoning and its significance in ethical decision making
+** moral reasoning
+  - process of determinig what is right/wrong in a given situation based on ethical principles, values, and reasoning frameworks
+  - involves analyzing scenarios and making decisions that aligns with moral values
+
+* Reasoning and will
+- will
+  + capacity to act on decisions made through moral reasoning
+  + to do what is right
+
+- reason
+  + intellectual ability to think critically, analyze situations, and make judgements based on logic, evidence, and ethical principles
+  + to know what is right
+
+* Moral theories
+** Moral theory
+- provides a framework for determining what actions are morally right or wrong, based on principles or criteria
+  
+** Moral frame
+- perspective or lens through which moral situations are analyzed, influenced by underlying moral theories, cultural norms, and individual values
+  
+* Key of moral theories
+1. consequentialism
+   - focuses on outcomes or consequences of actions
+   + right if leads to good
+2. deontology
+   - emphasized duties, rules, and obligations
+   + right if follows universal rules
+3. virtue ethics
+   - focuses on the character and virtues of the moral agent rather than specific actions
+   + right if reflects virtuous traits
+4. ethical relativism
+   - asserts that moral standards are culturally dependent and not universal
+   + morals depend on culture
+5. care ethics
+   - emphasizes relationships, compassion, and care as central to moral decision-making
+   + right if nurtures and maintains relationships
+6. social contract theory
+   - moral norms arise from agreements or contracts among individuals in a society
+   + morality is abiding to rules that rational individuals would agree upon
+7. divine command theory
+   - rooted in religious beliefs
+   - holds that morality is determined by God's commands
+   + right if aligned with divine will
+   
+     
