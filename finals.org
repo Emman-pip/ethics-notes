@@ -1,11 +1,11 @@
-*TODO
+* TODO
 - [x] Universal Values
   - [x] outline
-  - [ ] familiarize
+  - [x] familiarize
     
 - [x] The Filipino Way
   - [x] outline
-  - [ ] familiarize
+  - [x] familiarize
 
 - [x] Reason, Impartiality, Will, Feeling
   - [x] outline
@@ -25,9 +25,197 @@
 
 - [x] Utilitarian (Bentham, Mills)
   - [x] outline
-  - [ ] familiarize
+  - [x] familiarize
 
 - [x] Aristotle and St. Thomas
   - [x] outline
   - [ ] familiarize
 
+* Recall
+** Universal Values
+- fundamental principles that are widely recognized and accepted across different cultures and societies
+** different universal values
+- Happiness
+  - good fortune; pleasure; contentment; joy
+  - desired for itself
+- peace
+  - freedom from disturbance
+  - tranquility
+  - state or period in which there is no war or war has ended
+  - mutual harmony
+- freedom
+  - being free or liberty
+  - freedom from control
+- safety
+  - state of being safe
+- intelligence
+  - capacity for learning, reasoning, understanding, and similar forms of mental activity
+- respect
+  - formal expression or geesture of greeting, esteem, or friendship
+- equality
+  - state or qualit of being equal
+- justice
+  - quality of being just
+- nature
+  - material world
+- health
+  - general condition of body and mind
+*** Concepts of universal values
+- Shalom Swartz
+  - based on a psychological framework that identifies core human values, shared across cultures
+*** Human dignity
+- every person has value and deserves respect, simply because they are human
+- 1987 Philippines Constitution Article 2 Section 11
+  - state recognizes the dignity of every human person ad guaranteed full respect for human right
+- it lies in the fact that it ensures every person is treated with respect, faitness, and equality
+
+** The filipino way
+- Filipino values
+  - principles or moral standards that guide behavior, decisions, and beliefs of filipinoes
+    + pakikipagkapwa tao
+    + bayanihan
+    + utang na loob
+
+- Filipino traits
+  - typical behaviors, attitudes, or characterstics that are often observed in Filipino individuals
+  - reflects how filipihnos express or embody their values in everyday life
+    + hospitality
+    + resilence
+    + hiya
+    
+*** strengths
+1. Strong family orientation
+2. resilience and optimism
+3. hospitality
+4. compassion and generosity
+5. respect for elders and authority
+
+*** Weakness
+1. pakikisama and utang na loob
+2. hiya
+3. tendency toward fatalism
+4. colonial mentality
+5. overemphasis on family
+
+** Reason and impartiality
+- Reason
+  - ability to think logically and critically, to analyze situations, and to draw sound conclusions
+    + critical thinking
+    + consistency
+    + justification
+    + problem solving
+- Impartiality
+  - principle of treating all indviduals equally and without favoritism, bias, or prejudice
+    + fairness
+    + equity
+    + moral universlit
+    + avoidance of double standards
+
+** Feelings and Reason
+- feelings (Emotional responses)
+  - instictive, immediate reaction
+  - arise forminternal or external stimuli
+  - often spontaneous, unconscious, and can be influenced by our thoughts, experiences, and the environment
+
+- reason
+  - driven by logic and thinking
+  - refers to the cognitive process of thinking logically, critically, and systematically
+  - reasonable response
+
+** Moral Character
+- set of qualities that makes someone a good or ethical person
+- about who you are on the inside
+
+*** Character
+- distinctive mark by which one thing was distinguided from others
+  
+*** 3 Approaches of development of moral character
+1. virtues
+   - virtue ethics associated with philosophers like aristotle focuses on cultivating positive qualities through practice and habituation
+   - focuses on specific moral virtues 
+
+2. disposition
+   - refer to tendencies or inclinations to act in certain ways across various sitiuations
+   - character through general habits and inclinations
+   - less rigid then virtues and acknowledge that people can adapt their behavior while still maintaining a consistent moral core
+     
+3. circular relation of act and character
+   - highlights the reciprocal influence of actions and character
+
+*** Kohlberg's stages of moral development
+
+1. obedience and punnishment
+2. individualism and exchange
+3. good interpersonal relationships
+4. maintaining social order
+5. social contract and individual rights
+6. universal principles
+
+** 7 steps of moral reasoning
+1. gather the facts
+2. identify the issue
+3. consider all stakeholders
+4. evaluate all possible solutions
+5. apply ethical principles or frameworks
+6. make a decision
+7. reflect on the decision
+
+*** Moral reasoning
+1. process of determining what is right/wrong in a given situation
+2. analyzing scenarios considering the implications of various actions
+
+*** Reason and will
+- Reason
+  + refers to the intellectual ability to think critically, analyze situations, and make judgements based on logic, evidence, and ethical principles 
+    - evaluates moral dilemmas
+    - applies ethical frameworks
+    - seeks consistency
+
+- Will
+  + refers to the capacity to act on decision made through moral reasoning, often requiring self-discipline, commitment, and courage
+    - translates decisions into action
+    - overcomes emotional and external pressures
+    - reflects moral character
+
+** Moral theories and moral frame
+- moral theory
+  + provides a framework for determining what actions are morally right or wrong
+- moral frame
+  + refers to the perspective or lens through which moral situations are analyzed
+    
+*** Key of moral theories
+1. consequentialism
+   - focuses on outcomes or consequences of actions
+     
+2. deontology
+   - emphasizes duties, rles, and obligations
+
+3. virtue ethics
+   - focuses on the character and virtues of the moral agent rather than specific actions
+
+4. ethical relativism
+   - asserts that moral standards are culturally dependent and not universal
+     
+5. care ethics
+   - emphasizes relationships, compassion, and care as central to moral decision-making
+
+6. social contract theory
+   - based on the idea that moral norms arise from agreements or contracts among individuals ina society
+
+7. divine command theory
+   - rooted in religious beliefs
+
+*** moral frame
+shapes how moral theories are applied to specific situations
+
+
+** Aristotle and St. Thomas
+| aristotle   | thomas                             |
+|-------------+------------------------------------|
+| eudaimonia  | beatitude                          |
+| golden mean | golden mean w/ theological virtues |
+|             |                                    |
+
+** Kant and rights
+- moral autonomy and rationality
+- the ca

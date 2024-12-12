@@ -39,7 +39,8 @@
 - provides a framework for determining what actions are morally right or wrong, based on principles or criteria
   
 ** Moral frame
-- perspective or lens through which moral situations are analyzed, influenced by underlying moral theories, cultural norms, and individual values
+- perspective or lens through which moral situations are analyzed
+- influenced by underlying moral theories, cultural norms, and individual values
   
 * Key of moral theories
 1. consequentialism
@@ -106,14 +107,34 @@
    - considers the long-term benefits to rules that generally promote the gratest good, even if in some cases they do not maximize happiness
      
 ** Famous utilitarian thinkers
-1. Jeremy Bentham
+*** Jeremy Bentham
    - founder of utilitarianism
    - emphasized on quantifying pleasure and pain
    - hedonic calculus (method to measure pleasure and pain)
    - moral framework based on maximizing happiness and minimizing
-     
-2. John Stuart Mill
+**** Hedonic calculus
+factors (7) I Dont Care Please F-ing Protect Epiphanies
+1. intensity
+   - how strong is the pleasure or pain
+2. duration
+   - how long will it last
+3. certainty
+   - how likely is it to occur
+4. proximity
+   - how soon
+5. fecundity
+   - will it lead to more pleasure or pain in the future?
+6. purity
+   - for far is it from the opposite
+7. extent
+   - how many will be affected
+
+*** John Stuart Mill
    - emphasized the quality of pleasures
    - importance of personal liberty
    - happiness as a goal
    - 
+     
+*** James Mill
+  - benthamite utilitarianism
+  - emphasized on the collective good.

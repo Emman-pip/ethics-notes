@@ -25,7 +25,7 @@
   + ensures that decisions are made based on objective standards rather than personal interest or relationships
 - equity
   + promotes equal consideration of all parties affected by a decision regardless of their identity or status
-- mOral Universality
+- moral universality
   + Ethical Rules Should Apply Universally, Not Selectively
 - Avoidance Of Double Standards
   + prevents individuals from privileging themselves or those they favor when making moral judgements
